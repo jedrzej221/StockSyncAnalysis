@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.py~
+
+# IDE
+.idea/
+.vscode/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Log files
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
